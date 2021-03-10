@@ -1,2 +1,3 @@
 first line added - local
-line added - remotetag v1.1 is created
+line added - remote
+tag v1.1 is created
